@@ -112,6 +112,7 @@ C:\Users\Ognjen\OneDrive\Desktop\Visual Studio Code\Betaplast site\ProbaApi\obj\
 C:\Users\Ognjen\OneDrive\Desktop\Visual Studio Code\Betaplast site\ProbaApi\obj\Debug\net8.0\ProbaApi.csproj.CoreCompileInputs.cache
 C:\Users\Ognjen\OneDrive\Desktop\Visual Studio Code\Betaplast site\ProbaApi\obj\Debug\net8.0\ProbaApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Ognjen\OneDrive\Desktop\Visual Studio Code\Betaplast site\ProbaApi\obj\Debug\net8.0\ProbaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ognjen\OneDrive\Desktop\Visual Studio Code\Betaplast site\ProbaApi\obj\Debug\net8.0\ProbaApi.sourcelink.json
 C:\Users\Ognjen\OneDrive\Desktop\Visual Studio Code\Betaplast site\ProbaApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Ognjen\OneDrive\Desktop\Visual Studio Code\Betaplast site\ProbaApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Ognjen\OneDrive\Desktop\Visual Studio Code\Betaplast site\ProbaApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
